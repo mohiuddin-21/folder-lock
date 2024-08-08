@@ -1,0 +1,5 @@
+for set password open lock.text file and find "531910" this is default password for this lock.
+after setting password you have to save this file as a .bat file, (lock.bat)
+
+Booom! enjoy the lock.
+cyberbox21
